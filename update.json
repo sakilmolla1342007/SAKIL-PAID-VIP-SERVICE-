@@ -46,5 +46,11 @@
         "key": "sakil_tg_op",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f42cdb9a53410595",
+        "key": "sakil_bhai_op",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
