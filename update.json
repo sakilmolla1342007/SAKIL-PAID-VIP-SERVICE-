@@ -40,5 +40,11 @@
         "key": "sakil_on_top",
         "expirydate": "30-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7fcf70e49d4dfc73",
+        "key": "sakil_tg_op",
+        "expirydate": "30-09-2025",
+        "Allowoffline": false
     }
 ]
