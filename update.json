@@ -1,62 +1,9 @@
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "33640ae4ac51dd42",
-        "key": "sonu@123",
-        "expirydate": "1-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "182fe64c64cb67ec",
-        "key": "sakil.ontop",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "557cb81112122632",
-        "key": "sakil_op",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "dde3e79c02979ae7",
-        "key": "sakil-op",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "6181e1506e28c70d",
-        "key": "sakil_bhai.op",
-        "expirydate": "1-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c443d641e159754d",
-        "key": "sakil_on_top",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7fcf70e49d4dfc73",
-        "key": "sakil_tg_op",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "1b1eebfa07f9ae04",
-        "key": "sakil_bhai_op",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "cb42c0b6afa016d0",
-        "key": "sakil_bhai_top",
-        "expirydate": "30-09-2025",
-        "Allowoffline": false
-    }
-]
+{
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/dpmodsdiscussion"
+}
